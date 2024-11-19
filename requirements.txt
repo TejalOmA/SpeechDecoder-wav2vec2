@@ -1,0 +1,7 @@
+torch==2.0.1
+torchaudio==2.0.2
+transformers
+pandas
+numpy
+huggingface_hub>=0.0.17 
+IPython>=8.26.0
