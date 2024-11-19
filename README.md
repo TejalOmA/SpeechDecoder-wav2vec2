@@ -80,16 +80,19 @@ The **TIMIT dataset** is a benchmark in ASR systems, featuring:
 
 ## 🛠 How to Use
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 ```
 
 2. Install dependencies:
+
   ```bash
 pip install -r requirements.txt
 ```
 
 3. Run the script:
+   
   ```bash
 jupyter notebook SpeechDecoder-wav2vec2.ipynb
 ```
